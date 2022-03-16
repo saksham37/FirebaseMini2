@@ -1,0 +1,2 @@
+# FirebaseMini2
+Created with CodeSandbox
